@@ -1,0 +1,15 @@
+SDLC
+==================================
+
+6. Maintenance
+
+goal:
+ - bug fixes
+ - updates / enhancements
+
+ who:
+ - dev team
+ - business team
+ - devops
+
+ ==================================

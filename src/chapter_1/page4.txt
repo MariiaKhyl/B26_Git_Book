@@ -1,0 +1,12 @@
+
+
+SDLC
+==================================
+
+4. Testing
+
+goal: make sure you ship quality product to end users
+
+who: testers
+
+==================================

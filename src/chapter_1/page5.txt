@@ -1,0 +1,15 @@
+
+
+SDLC
+==================================
+
+5. Deployment
+
+goal: moving code from one environment to another, eventually to production
+
+who:
+- devops
+- dev team
+- business team
+
+==================================
