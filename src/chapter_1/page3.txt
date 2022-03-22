@@ -1,6 +1,12 @@
 
-Welcome to git
+SDLC
+==================================
 
-I hope you are having fun
+3. Code / development
 
-Missing java maybe?
+goal: build the software
+
+who:
+- developers
+
+===================================

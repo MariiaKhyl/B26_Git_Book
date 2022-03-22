@@ -1,8 +1,17 @@
 
-This is page two
+SDLC
+==================================
 
-we are getting ready to commit
+2. Designing
 
-nothing new yet
+goal: architecture the whole app (ui, db, api, documents etc)
 
-Hello World
+who:
+- designers
+- architects
+- client
+- PO, BA, PM
+- senior developers
+
+========================
+

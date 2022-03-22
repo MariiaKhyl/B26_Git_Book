@@ -1,8 +1,27 @@
 
 
-This is start of my book.
-Page one will help us get started.
+SDLC
+==================================
 
-I really like to see you!
+1. Requirement gathering
 
-We will have a good time here.
+goal:
+- gather
+- analyze
+- plan
+- document
+
+who:
+- PM - manages the project
+- PO - voice of the customer in the project
+- BA - voice of the PO in the team
+- Client - owner of the application
+- Stakeholders
+- End User
+- Domain Expert - knows the industry / domain
+- SME - subject matter expert
+
+SMART - the way to gather the requirements
+
+========================
+
