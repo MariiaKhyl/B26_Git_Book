@@ -32,4 +32,4 @@ how testers do testing?
 - Automated
 
 manually - documentation, functionality
-automated - code, functionality
+automated - code, functionality.

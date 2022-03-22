@@ -15,7 +15,7 @@
 - it is the same with production, but with mock data
 
 => prod env
-- end users use the product
+- end users use the product.
 
 ===============================================
 
