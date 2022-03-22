@@ -1,4 +1,35 @@
 
 
-Hello,
-It was loooong day today. I need to take some rest.
+Intro to software testing
+===========================
+
+what is testing?
+===========================
+ expected result is matching actual result
+
+ - quality product
+ - identify and prevent bug / defects
+ - actual result is matching expected
+
+what is needed to be tested?
+============================
+- documentation
+- code
+- functionality (non)
+
+who does testing
+============================
+- Business team (product owner/ ba)
+- Designers
+- Developers
+- Testers
+- The client
+- End Users
+
+how testers do testing?
+============================
+- Manual
+- Automated
+
+manually - documentation, functionality
+automated - code, functionality

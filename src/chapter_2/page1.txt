@@ -1,4 +1,21 @@
 
-It's a new day
-It's a new live
-And I'm filling good
+ Environments
+ ==============================================
+
+- environment means where we develop, test and use the application
+- companies usually have at least 3 or 4 environments
+
+=> dev env
+ - it is for developers to code the app
+
+=> test env (qa)
+- some companies might have multiple test envs
+
+=> staging
+- it is the same with production, but with mock data
+
+=> prod env
+- end users use the product
+
+===============================================
+
